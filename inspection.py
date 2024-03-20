@@ -22,6 +22,7 @@ print(df.loc[2])
 df2 = df.dropna()
 df2.shape #only have 1048 rows left - should we use this one?
 df.shape #compared to 8378 rows when there are NAs
+df2.dtypes #objects and integers (binned integers are objects)
 
 #will continue with df2 but can just copy/paste with df if we decide to use that one instead
 
