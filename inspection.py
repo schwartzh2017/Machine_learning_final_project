@@ -1,7 +1,7 @@
 # Christy's work:
 
-import pandas as pd
 import numpy as np
+import pandas as pd
 
 df = pd.read_csv("speeddating.csv", low_memory=False)
 df = df.applymap(lambda x: np.nan if x == '?' else x)
@@ -49,4 +49,4 @@ df2['field'] #check
 # export to csv
 df2.to_csv('clean_speeddating.csv')
 
-#--------------------------
+
