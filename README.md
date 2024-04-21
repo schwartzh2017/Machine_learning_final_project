@@ -1,6 +1,8 @@
 # 505project
 Final project for DATA505
 
+link for google docs: https://docs.google.com/document/d/1ExRlRkdf4WGl_HscYdeB7ViSr7gO0aCvQeciU0zhTgM/edit?usp=sharing
+
 dataset link: https://www.openml.org/search?type=data&status=any&sort=runs&id=40536
 
 Copied from link:
