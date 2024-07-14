@@ -1,5 +1,5 @@
 # 505project
-Final project for DATA505
+Final project for DATA505: analysis of speed dating dataset.
 
 See "final_HS.ipynb" and "final_CM.ipynb" for our presentation notebooks.
 
