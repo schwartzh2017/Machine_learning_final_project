@@ -1,7 +1,7 @@
 # 505project
 Final project for DATA505
 
-link for google docs: https://docs.google.com/document/d/1ExRlRkdf4WGl_HscYdeB7ViSr7gO0aCvQeciU0zhTgM/edit?usp=sharing
+See "final_HS.ipynb" and "final_CM.ipynb" for our presentation notebooks.
 
 dataset link: https://www.openml.org/search?type=data&status=any&sort=runs&id=40536
 
